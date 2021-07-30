@@ -4,15 +4,15 @@
 My name is Rodrigo Emanuel Díaz Estévez and I'm a full stack developer. I'm from Argentina. 👋
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5&theme=merko)
-![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css3&theme=merko)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&theme=merko)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&theme=merko)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&theme=merko)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&theme=merko)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&theme=merko)
-
-
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ## &#x1f4c8; GitHub Stats
 
