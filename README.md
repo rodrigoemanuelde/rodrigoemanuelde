@@ -1,7 +1,7 @@
 
-# Hello, folks!
+# Hello, folks! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-My name is Rodrigo Emanuel Díaz Estévez and I'm a full stack developer. I'm from Argentina. 👋
+My name is **Rodrigo Emanuel Díaz Estévez** and I'm a full stack developer. I'm from Argentina.
 
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
@@ -16,6 +16,5 @@ My name is Rodrigo Emanuel Díaz Estévez and I'm a full stack developer. I'm fr
 
 ## &#x1f4c8; GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rodrigoemanuelde&theme=merko&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoemanuelde&theme=merko&hide=TeX&layout=compact)
 
