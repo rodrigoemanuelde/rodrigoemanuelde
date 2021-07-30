@@ -16,10 +16,6 @@ My name is Rodrigo Emanuel Díaz Estévez and I'm a full stack developer. I'm fr
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/rodrigoemanuelde/rodrigoemanuede">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoemanuelde&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a>
-<a href="https://github.com/rodrigoemanuelde/rodrigoemanuede">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigoemanuelde&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="rodrigoemanuelde's GitHub Stats" />
-</a>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rodrigoemanuelde&theme=merko&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoemanuelde&theme=merko&hide=TeX&layout=compact)
 
