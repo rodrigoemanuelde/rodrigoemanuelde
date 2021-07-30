@@ -3,7 +3,7 @@
 
 My name is **Rodrigo Emanuel Díaz Estévez** and I'm a full stack developer. I'm from Argentina.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -14,7 +14,7 @@ My name is **Rodrigo Emanuel Díaz Estévez** and I'm a full stack developer. I'
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoemanuelde&theme=merko&hide=TeX&layout=compact)
 
