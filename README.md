@@ -14,6 +14,12 @@ My name is **Rodrigo Emanuel Díaz Estévez** and I'm a full stack developer. I'
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
+## Contact
+
+<a href="https://www.linkedin.com/in/rodrigoemanuelde/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Rodrigo Emanuel Díaz Estévez's LinkedIn Profile" height="30" width="30">
+  </a>
+
 ## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoemanuelde&theme=merko&hide=TeX&layout=compact)
