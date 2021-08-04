@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-My name is **Rodrigo Emanuel Díaz Estévez** and I'm a full stack developer. I'm from Argentina.
+My name is **Rodrigo Emanuel Díaz Estévez** and I'm a Full Stack JavaScript Developer (React - Node). I'm from Argentina.
 
 ## Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
