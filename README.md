@@ -16,7 +16,7 @@ My name is **Rodrigo Emanuel Díaz Estévez** and I'm a Full Stack JavaScript De
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/rodrigoemanuelde/">
+<a href="https://www.linkedin.com/in/rodrigoemanueldiazestevez/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Rodrigo Emanuel Díaz Estévez's LinkedIn Profile" height="30" width="30">
   </a>
 
